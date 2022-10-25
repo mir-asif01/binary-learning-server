@@ -1,6 +1,7 @@
 [
     {
         "id" : "Rust",
+        "img" : "https://www.cnet.com/a/img/resize/caa3910ea949d3fb7212d10f6f40a4ea1d374977/hub/2017/08/02/e90756de-9d07-4ee3-94a2-9118abfaa9f3/rust-logo-mozilla.jpg?auto=webp&fit=crop&height=1200&width=1200",
         "data_types" : "Every value in Rust is of a certain data type, which tells Rust what kind of data is being specified so it knows how to work with that data. We’ll look at two data type subsets: scalar and compound.",
         "variables" : "As mentioned in the “Storing Values with Variables” section, by default variables are immutable. This is one of many nudges Rust gives you to write your code in a way that takes advantage of the safety and easy concurrency that Rust offers. However, you still have the option to make your variables mutable. Let’s explore how and why Rust encourages you to favor immutability and why sometimes you might want to opt out.",
         "conditions" : "In this Rust tutorial we learn how to control the flow of our Rust application with if, else if, else, and match conditional statements.We also cover how to nest conditional statements inside other conditional statements as well as how to conditionally assign a value to a variable if the if let expression.",
@@ -9,6 +10,7 @@
     },
     {
         "id" : "C++",
+        "img" : "https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01",
         "data_types" : "You may like to store information of various data types like character, wide character, integer, floating point, double floating point, boolean etc. Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.",
         "variables" : "The usefulness of the 'Hello World' programs shown in the previous chapter is rather questionable. We had to write several lines of code, compile them, and then execute the resulting program, just to obtain the result of a simple sentence written on the screen. It certainly would have been much faster to type the output sentence ourselves.",
         "conditions" : "In this tutorial, we will learn about the if...else statement to create decision making programs with the help of examples.In computer programming, we use the if...else statement to run one block of code under certain conditions and another block of code under different conditions.",
@@ -17,6 +19,7 @@
     },
     {
         "id" : "Python",
+        "img" : "https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc",
         "data_types" : "Every value in Python has a datatype. Since everything is an object in Python programming, data types are actually classes and variables are instance (object) of these classes.",
         "variables" : "In the previous tutorial on Basic Data Types in Python, you saw how values of various Python data types can be created. But so far, all the values shown have been literal or constant values.",
         "conditions" : "Conditional Statement in Python perform different computations or actions depending on whether a specific Boolean constraint evaluates to true or false. Conditional statements are handled by IF statements in Python.In this tutorial, we will see how to apply conditional statements in Python.",
@@ -25,6 +28,7 @@
     },
     {
         "id" : "Java",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpBN7uofVUQyBxrR645F56KTsPXfihL79rJlyp-bekhyKn4mMCHFuDXLg7yIr9uMuZJ4&usqp=CAU",
         "data_types" : "Data types are divided into two groups: Primitive data types - includes byte , short , int , long , float , double , boolean and char. Non-primitive data types - such as String , Arrays and Classes.",
         "variables" : "Variable in Java is a data container that saves the data values during Java program execution. Every variable is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data. A variable is a name given to a memory location.",
         "conditions" : "In this tutorial, you will learn about control flow statements using Java if and if...else statements with the help of examples.In programming, we use the if..else statement to run a block of code among more than one alternatives. For example, assigning grades (A, B, C) based on the percentage obtained by a student.",
@@ -33,6 +37,7 @@
     },
     {
         "id" : "Golang",
+        "img" : "https://play-lh.googleusercontent.com/edQ8_8or0qX3JymcLz5jrHskKXLGjj7b7lGYuBW-oUMmK75vspumKniy6gukdOuzbcNl",
         "data_types" : "Go has three basic data types: bool: represents a boolean value and is either true or false. Numeric: represents integer types, floating point values, and complex types. string: represents a string value.",
         "variables" : "In Go language variables are created in two different ways: Using var keyword: In Go language, variables are created using var keyword of a particular type, connected with name and provide its initial value. Important Points: In the above syntax, either type or = expression can be omitted, but not both.",
         "conditions" : "Conditional statements allow you to execute decisions based on logic that evaluates to true or false. Some examples of conditional statements include if statements, if…else, if…else if.. else, and switch-case statements. Go has full support for these conditionals with a familiar and straightforward syntax.",
@@ -41,6 +46,7 @@
     },
     {
         "id" : "PHP",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyZvrKaskZAaSH9mnu19Z90nyn0bXl2x360Z1gXx6gzTcElTeUFWRomc9sxoAG6rAy1M&usqp=CAU",
         "data_types" : "Data Types define the type of data a variable can store. PHP allows eight different types of data types. All of them are discussed below. There are pre-defined, user-defined, and special data types.The predefined data types are:Boolean,Integer,Double,String. The user-defined (compound) data types are:Array,Objects.",
         "variables" : "All variables in PHP start with a $ (dollar) sign followed by the name of the variable.A valid variable name starts with a letter (A-Z, a-z) or underscore (_), followed by any number of letters, numbers, or underscores.If a variable name is more than one word, it can be separated with an underscore (for example $employee_code instead of $employeecode).'$' is a special variable that can not be assigned.",
         "conditions" : "Decisions are an integral part of life. From the mundane decisions about what to wear, to the life-altering decisions of jobs and family. So too in development. For a program to do anything useful, it must be able to respond to some sort of input. When a person clicks the contact button on a website, they expect to be taken to a contact page. If nothing happens, or they are taken to the wrong page, the user may choose to stop using that website or company completely.",
