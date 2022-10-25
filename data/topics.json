@@ -63,7 +63,7 @@
         "id" : "5",
         "name" : "Golang",
         "price" : "99",
-        "img" : "",
+        "img" : "https://play-lh.googleusercontent.com/edQ8_8or0qX3JymcLz5jrHskKXLGjj7b7lGYuBW-oUMmK75vspumKniy6gukdOuzbcNl",
         "features" : [
             "Open-Source.",
             "Static Typing.",
