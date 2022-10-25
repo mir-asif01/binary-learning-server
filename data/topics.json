@@ -3,6 +3,7 @@
         "id" : "1",
         "name" : "Rust",
         "price" : "99",
+        "img" : "https://www.cnet.com/a/img/resize/caa3910ea949d3fb7212d10f6f40a4ea1d374977/hub/2017/08/02/e90756de-9d07-4ee3-94a2-9118abfaa9f3/rust-logo-mozilla.jpg?auto=webp&fit=crop&height=1200&width=1200",
         "features" : [
             "Rust Solves Memory Management Problems.",
             "Rust's Low Overhead Makes It Ideal for Embedded Programming.",
@@ -17,6 +18,7 @@
         "id" : "2",
         "name" : "C++",
         "price" : "93",
+        "img" : "",
         "features" : [
             "Machine Independent.",
             "Simple. In-Demand Software Development Skills.",
@@ -31,6 +33,7 @@
         "id" : "3",
         "name" : "Python",
         "price" : "91",
+        "img" : "",
         "features" : [
             "Free and Open Source.",
             "Easy to code.",
@@ -45,6 +48,7 @@
         "id" : "4",
         "name" : "Java",
         "price" : "100",
+        "img" : "",
         "features" : [
             "Simple.",
             "Object-Oriented.",
@@ -59,6 +63,7 @@
         "id" : "5",
         "name" : "Golang",
         "price" : "99",
+        "img" : "",
         "features" : [
             "Open-Source.",
             "Static Typing.",
@@ -73,6 +78,7 @@
         "id" : "6",
         "name" : "PHP",
         "price" : "119",
+        "img" : "",
         "features" : [
             "PHP can generate dynamic page content.",
             "PHP can collect form data.",
