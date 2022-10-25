@@ -78,7 +78,7 @@
         "id" : "6",
         "name" : "PHP",
         "price" : "119",
-        "img" : "",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyZvrKaskZAaSH9mnu19Z90nyn0bXl2x360Z1gXx6gzTcElTeUFWRomc9sxoAG6rAy1M&usqp=CAU",
         "features" : [
             "PHP can generate dynamic page content.",
             "PHP can collect form data.",
